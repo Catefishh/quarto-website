@@ -16,7 +16,8 @@ website:
       - href: genai.qmd
         text: GenAI Reflection
     right:
-      - icon: github
+      - text: GitHub
+        icon: github
         href: https://github.com/Catefishh/
         aria-label: Github
 
@@ -28,4 +29,3 @@ format:
     toc: true
     toc-depth: 3
     toc-location: left
-
