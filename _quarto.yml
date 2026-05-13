@@ -3,20 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Welcome"
+  favicon: images/favicon.jpg
   navbar:
+    logo: images/logo.jpg
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: genai.qmd
+        text: GenAI Reflection
+    right:
+      - icon: github
+        href: https://github.com/Catefishh/
+        aria-label: Github
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
     toc: true
-
+    toc-depth: 3
+    toc-location: left
 
 

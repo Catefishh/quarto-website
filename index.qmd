@@ -1,7 +1,21 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Hi, I'm Justin
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm just here to learn and try new things. 
+
+::: {.hero-links}
+[View my projects](about.qmd){.btn .btn-primary}
+[GitHub](https://github.com/Catefishh/){.btn .btn-outline-secondary}
+[GenAI reflection](genai.qmd){.btn .btn-outline-secondary}
+:::
+
+## What I do
+
+I am currently a Y1 SIT AAI student undergoing the Data Engineering & Visualisation Module.
+
+## More about me
+
+You can find my GitHub, showcased projects, and background on the [project page](about.qmd). I also wrote a short [reflection on how I use GenAI](genai.qmd) as part of my learning process.

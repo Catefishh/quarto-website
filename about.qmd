@@ -1,5 +1,12 @@
 ---
-title: "About"
+title: "Project Page"
 ---
 
-About this site
+## My github
+- [Github](https://github.com/Catefishh)
+
+## Key projects
+
+### [Stock price predictor](https://github.com/Catefishh/Stock-price-predictor)
+
+This was my first project I've worked on using machine learning. I trained an LSTM model to make future stock price predictions.

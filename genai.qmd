@@ -1,0 +1,7 @@
+---
+title: "GenAI Reflection"
+---
+
+# Reflecting on GenAI
+
+Generative AI has become part of the way I learn, experiment, and build. I use tools like ChatGPT as a thinking partner when I am working through new concepts. The way it explains concepts to me is something I appreciate, and I enjoy creating LaTex formatted revision notes with the aid of GPT.
