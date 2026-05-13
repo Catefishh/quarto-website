@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - .nojekyll
 
 website:
   title: "Welcome"
@@ -26,5 +28,4 @@ format:
     toc: true
     toc-depth: 3
     toc-location: left
-
 

@@ -1,20 +1,49 @@
 ---
 title: "Home"
+toc: false
 ---
 
+::: {.home-hero}
+::: {.hero-copy}
 # Hi, I'm Justin
 
-I'm just here to learn and try new things. 
+I'm a Year 1 SIT AAI student learning data engineering, visualization, and how to turn small ideas into useful projects.
 
 ::: {.hero-links}
 [View my projects](about.qmd){.btn .btn-primary}
 [GitHub](https://github.com/Catefishh/){.btn .btn-outline-secondary}
 [GenAI reflection](genai.qmd){.btn .btn-outline-secondary}
 :::
+:::
+
+::: {.hero-image}
+![](images/logo.jpg){fig-alt="Website logo"}
+:::
+:::
 
 ## What I do
 
-I am currently a Y1 SIT AAI student undergoing the Data Engineering & Visualisation Module.
+::: {.feature-grid}
+
+::: {.feature-card}
+### Data Engineering
+
+I am learning how data moves from raw sources into cleaner, more useful formats.
+:::
+
+::: {.feature-card}
+### Visualization
+
+I am practising how to communicate patterns, trends, and insights clearly through charts and dashboards.
+:::
+
+::: {.feature-card}
+### Machine Learning
+
+I am experimenting with models and projects, including my first stock price prediction project.
+:::
+
+:::
 
 ## More about me
 

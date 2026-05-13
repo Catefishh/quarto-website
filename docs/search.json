@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I’m just here to learn and try new things.\n\nView my projects GitHub GenAI reflection\n\n\n\nI am currently a Y1 SIT AAI student undergoing the Data Engineering & Visualisation Module.\n\n\n\nYou can find my GitHub, showcased projects, and background on the project page. I also wrote a short reflection on how I use GenAI as part of my learning process."
+    "text": "I’m a Year 1 SIT AAI student learning data engineering, visualization, and how to turn small ideas into useful projects.\n\nView my projects GitHub GenAI reflection"
   },
   {
     "objectID": "index.html#what-i-do",
     "href": "index.html#what-i-do",
     "title": "Home",
-    "section": "",
-    "text": "I am currently a Y1 SIT AAI student undergoing the Data Engineering & Visualisation Module."
+    "section": "What I do",
+    "text": "What I do\n\n\nData Engineering\nI am learning how data moves from raw sources into cleaner, more useful formats.\n\n\nVisualization\nI am practising how to communicate patterns, trends, and insights clearly through charts and dashboards.\n\n\nMachine Learning\nI am experimenting with models and projects, including my first stock price prediction project."
   },
   {
     "objectID": "index.html#more-about-me",
     "href": "index.html#more-about-me",
     "title": "Home",
-    "section": "",
-    "text": "You can find my GitHub, showcased projects, and background on the project page. I also wrote a short reflection on how I use GenAI as part of my learning process."
+    "section": "More about me",
+    "text": "More about me\nYou can find my GitHub, showcased projects, and background on the project page. I also wrote a short reflection on how I use GenAI as part of my learning process."
   },
   {
     "objectID": "about.html",
@@ -39,34 +39,13 @@
     "href": "about.html#key-projects",
     "title": "Project Page",
     "section": "Key projects",
-    "text": "Key projects\n\nStock price predictor\nThis was my first project I’ve worked on using machine learning. I trained an LSTM model to make future stock price predictions."
+    "text": "Key projects\n\n\nStock price predictor\nThis was my first project using machine learning. I trained an LSTM model to make future stock price predictions."
   },
   {
     "objectID": "genai.html",
     "href": "genai.html",
     "title": "GenAI Reflection",
     "section": "",
-    "text": "Generative AI has become part of the way I learn, experiment, and build. I use tools like ChatGPT as a thinking partner when I am working through new concepts, writing code, improving my website, or trying to understand how to approach a project.\n\n\nGPT helps me by making the learning process feel less overwhelming. Instead of only giving answers, it can explain ideas step by step, suggest improvements, and help me understand why something works. For this website, GPT has helped me think about the structure of my pages, write clearer content, and learn how Quarto files such as .qmd, _quarto.yml, and styles.css work together.\nSome ways GPT supports my work include:\n\nExplaining code and technical concepts in simpler language\nSuggesting better ways to organize my website content\nHelping me write and improve project descriptions\nGiving examples that I can adapt and learn from\nPointing out small mistakes that I may not notice immediately\n\n\n\n\nEven though GenAI is useful, I still need to make the final decisions. I need to check whether the suggestions are correct, understand the code before using it, and make sure the work reflects my own learning. GPT can guide me, but it should not replace my own thinking.\nUsing GenAI well means asking good questions, reviewing the output carefully, and being honest about how it contributed to the final work.\n\n\n\nI see GPT as a supportive learning tool. It helps me move faster, but more importantly, it helps me understand what I am doing. As I continue learning data engineering, visualization, and web development, I want to use GenAI responsibly: as a partner for exploration, not as a shortcut around learning."
-  },
-  {
-    "objectID": "genai.html#how-gpt-is-helping-me",
-    "href": "genai.html#how-gpt-is-helping-me",
-    "title": "GenAI Reflection",
-    "section": "",
-    "text": "GPT helps me by making the learning process feel less overwhelming. Instead of only giving answers, it can explain ideas step by step, suggest improvements, and help me understand why something works. For this website, GPT has helped me think about the structure of my pages, write clearer content, and learn how Quarto files such as .qmd, _quarto.yml, and styles.css work together.\nSome ways GPT supports my work include:\n\nExplaining code and technical concepts in simpler language\nSuggesting better ways to organize my website content\nHelping me write and improve project descriptions\nGiving examples that I can adapt and learn from\nPointing out small mistakes that I may not notice immediately"
-  },
-  {
-    "objectID": "genai.html#what-i-still-need-to-do-myself",
-    "href": "genai.html#what-i-still-need-to-do-myself",
-    "title": "GenAI Reflection",
-    "section": "",
-    "text": "Even though GenAI is useful, I still need to make the final decisions. I need to check whether the suggestions are correct, understand the code before using it, and make sure the work reflects my own learning. GPT can guide me, but it should not replace my own thinking.\nUsing GenAI well means asking good questions, reviewing the output carefully, and being honest about how it contributed to the final work."
-  },
-  {
-    "objectID": "genai.html#my-current-view",
-    "href": "genai.html#my-current-view",
-    "title": "GenAI Reflection",
-    "section": "",
-    "text": "I see GPT as a supportive learning tool. It helps me move faster, but more importantly, it helps me understand what I am doing. As I continue learning data engineering, visualization, and web development, I want to use GenAI responsibly: as a partner for exploration, not as a shortcut around learning."
+    "text": "Reflecting on GenAI\nGenerative AI has become part of the way I learn, experiment, and build. I use tools like ChatGPT as a thinking partner when I am working through new concepts. The way it explains concepts to me is something I appreciate, and I enjoy creating LaTex formatted revision notes with the aid of GPT."
   }
 ]

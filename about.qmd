@@ -7,6 +7,12 @@ title: "Project Page"
 
 ## Key projects
 
+::: {.project-grid}
+
+::: {.project-card}
 ### [Stock price predictor](https://github.com/Catefishh/Stock-price-predictor)
 
-This was my first project I've worked on using machine learning. I trained an LSTM model to make future stock price predictions.
+This was my first project using machine learning. I trained an LSTM model to make future stock price predictions.
+:::
+
+:::
